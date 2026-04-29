@@ -1,5 +1,7 @@
 # FinTech Fault Tolerance Simulator
 
-A simple visual simulator demonstrating how fault tolerance works in payment systems.
+A visual simulation demonstrating how fault tolerance works in payment systems.
 
-Built as part of the *FinTech Focus* blog series.
+Part of the *FinTech Focus* blog series.
+
+Focus: system reliability, failover behavior, and service resilience.
